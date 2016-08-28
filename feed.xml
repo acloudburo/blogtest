@@ -5,7 +5,52 @@
   <id>https://blogtest.curation.space</id>
   <link href="https://blogtest.curation.space"/>
   <link href="https://blogtest.curation.space/feed.xml" rel="self"/>
+  <updated>2016-03-19T14:00:12Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>Test Note</title>
+    <link rel="alternate" href="https://blogtest.curation.space/2016/03/19/test-note.html"/>
+    <id>https://blogtest.curation.space/2016/03/19/test-note.html</id>
+    <published>2016-03-19T14:00:12Z</published>
+    <updated>2016-08-28T18:22:35+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        This is my first test with a note
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &amp;lt;movie&amp;gt;
+       &lt;a href="https://youtu.be/j3RJY70li3M"&gt;&lt;a href="https://youtu.be/j3RJY70li3M"&gt;https://youtu.be/j3RJY70li3M&lt;/a&gt;&lt;/a&gt;&amp;lt;/movie&amp;gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Permanently settled for around 2000 years, Zürich has a history that goes back to its founding by the Romans, who, in 15 BC, called it 
+       &lt;em&gt;&lt;span&gt;&lt;a href="https://en.wikipedia.org/wiki/Turicum_(Z%C3%BCrich)"&gt;Turicum&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;. However, early settlements have been found dating back more than 6400 years ago.  Test it out now.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
 </feed>
