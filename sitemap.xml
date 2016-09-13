@@ -73,6 +73,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://blogtest.curation.space/2015/11/15/example-with-youtube-videos.html</loc>
+    <lastmod>2016-09-13</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://blogtest.curation.space/2015/11/20/example-with-fixed-images.html</loc>
     <lastmod>2016-09-13</lastmod>
     <priority>0.7</priority>
@@ -116,6 +122,12 @@
   </url>
   <url>
     <loc>https://blogtest.curation.space/2015/11/20.html</loc>
+    <lastmod>2016-09-01</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://blogtest.curation.space/2015/11/15.html</loc>
     <lastmod>2016-09-01</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
