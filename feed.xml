@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://blogtest.curation.space/2016/03/19/test-note.html"/>
     <id>https://blogtest.curation.space/2016/03/19/test-note.html</id>
     <published>2016-03-19T14:00:12Z</published>
-    <updated>2016-12-11T14:11:43+01:00</updated>
+    <updated>2016-12-11T14:58:31+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -32,8 +32,9 @@
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        &amp;lt;movie&amp;gt;
-       &lt;a href="https://youtu.be/j3RJY70li3M"&gt;&lt;a href="https://youtu.be/j3RJY70li3M"&gt;https://youtu.be/j3RJY70li3M&lt;/a&gt;&lt;/a&gt;&amp;lt;/movie&amp;gt;
+       &lt;div&gt;
+        &lt;a href="https://youtu.be/j3RJY70li3M"&gt;Video&lt;/a&gt;
+       &lt;/div&gt;
        &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;
