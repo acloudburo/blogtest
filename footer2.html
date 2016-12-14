@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html> 
+<html>
   <head>
     <meta charset="utf-8" />
     <meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible" />
@@ -7,57 +7,45 @@
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" /><!--[if lt IE 9]><script src="js/ie8.js" type="text/javascript"></script><![endif]--><link href="css/all.css" media="screen" rel="stylesheet" type="text/css" />
     <link href="/favicon.png" rel="icon" type="image/png" />
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C700" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
-    <!--HTML5 shiv for IE8 support--><!--[if lt IE 9]
-    | <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script-->
   </head>
   <body>
-    <div class="col-sm-3 sidebar" id="secondary" style="display: none;">
-      <aside>
-        <div class="about">
-          <h4>
-            <a class="sidebarlink" href="/"><i class="fa fa-chevron-right"></i>    Home     <i class="fa fa-home"></i></a>
-          </h4>
-          <h4>
-            <a class="sidebarlink" href="/menu1.html"><i class="fa fa-chevron-right"></i>    About Me   </a>
-          </h4>
-          <h4>
-            <a class="sidebarlink" href="/menu2.html"><i class="fa fa-chevron-right"></i>    Info   </a>
-          </h4>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle collapsed" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/">hello1</a>
         </div>
-        <div class="tags">
-          <h4>
-            Categories
-          </h4>
-          <ul class="list-unstyled">
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="/menu1.html"> About Me  </a>
+            </li>
+            <li>
+              <a href="/menu2.html"> Info  </a>
+            </li>
+            <li class="dropdown">
+              <a aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Categories <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">By Year <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li>
+                  <a href="/2016.html">2016 (1)</a>
+                </li>
+                <li>
+                  <a href="/2015.html">2015 (2)</a>
+                </li>
+              </ul>
+            </li>
+            <ul class="list-unstyled list-inline nav navbar-nav navbar-right"></ul>
           </ul>
         </div>
-        <div class="timeline">
-          <h4>
-            By year
-          </h4>
-          <ul class="list-unstyled">
-            <a class="label label-primary" href="/2016.html">2016 (1)</a>
-            <a class="label label-primary" href="/2015.html">2015 (2)</a>
-          </ul>
-        </div>
-      </aside>
-    </div>
-    <!--/#secondary-->
-    <div class="col-sm-12" id="primary">
-      <div class="content">
-        <header class="header">
-          <hgroup class="pull-left">
-            <h1 class="site-title">
-              <a href="/">hello1</a>
-            </h1>
-          </hgroup>
-          <div class="btn btn-primary pull-right" id="togglesidebar">
-            <i class="fa fa-bars"></i>
-          </div>
-        </header>
-        <section class="post"><div class="row">
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12"><div class="row">
   <div class="article"><h2 id="default-page-for-footer2">Default Page for Footer2</h2>
 
 <ul>
@@ -67,18 +55,12 @@
 </ul>
 
   </div>
-</div>
-        </section>
-        <footer class="footer">
-          <p>
-            <span class="fa fa-circle"></span><a href="/footer1.html">   footer1   </a><span class="fa fa-circle"></span>
-          </p>
-          <div class="socials-footer">
-          </div>
-          <p>
-            © 2016 All rights reserved 
-          </p>
-        </footer>
+</div><hr>
+            <p class="text-center">
+              ©2016 <a href="/">hello1</a> - <a href="/footer1.html">footer1</a><br /><span class="small">Powered by<a href="https://cloudburo.net/docs/products.html"> Cloudburo Curation Engine</a></span>
+            </p>
+          </hr>
+        </div>
       </div>
     </div>
     <script src="js/all.js" type="text/javascript"></script>
