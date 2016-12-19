@@ -13,6 +13,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://blogtest.curation.space/css/assets/vendor/flaticons/flaticon.html</loc>
+    <lastmod>2016-12-14</lastmod>
+    <priority>0.6</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://blogtest.curation.space/footer1.html</loc>
     <lastmod>2016-12-14</lastmod>
     <priority>1.0</priority>
